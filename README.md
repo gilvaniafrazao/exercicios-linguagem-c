@@ -1,2 +1,2 @@
 # Atividade-Algoritmos
-Exercícos resolvidos do capítulo 4 do livro de Algoritmos, em C.
+Exercícos resolvidos do capítulo 3 do livro de Algoritmos (Manzano), em C.
